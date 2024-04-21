@@ -1,0 +1,10 @@
+Automaton Information:
+Number: 19
+Alphabet: 1
+Number of States: 3
+Initial States: 1 1
+Final States: 1 0
+Transitions:
+1 -> a -> 2
+2 -> a -> 0
+0 -> a -> 0

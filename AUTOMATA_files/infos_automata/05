@@ -1,0 +1,13 @@
+Automaton Information:
+Number: 05
+Alphabet: 2
+Number of States: 5
+Initial States: 2 1 3
+Final States: 2 2 4
+Transitions:
+1 -> a -> 2
+1 -> b -> 0
+0 -> a -> 0
+0 -> b -> 0
+3 -> a -> 0
+3 -> b -> 4

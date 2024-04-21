@@ -1,0 +1,14 @@
+Automaton Information:
+Number: 28
+Alphabet: 1
+Number of States: 6
+Initial States: 1 1
+Final States: 2 3 0
+Transitions:
+1 -> a -> 2
+2 -> a -> 3
+3 -> a -> 2
+1 -> a -> 4
+4 -> a -> 5
+5 -> a -> 0
+0 -> a -> 4

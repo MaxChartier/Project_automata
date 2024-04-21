@@ -1,0 +1,15 @@
+Automaton Information:
+Number: 16
+Alphabet: 4
+Number of States: 5
+Initial States: 1 1
+Final States: 1 0
+Transitions:
+1 -> a -> 1
+1 -> a -> 2
+2 -> b -> 2
+2 -> b -> 3
+3 -> c -> 3
+3 -> c -> 4
+4 -> d -> 4
+4 -> d -> 0

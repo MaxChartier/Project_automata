@@ -1,0 +1,13 @@
+Automaton Information:
+Number: 22
+Alphabet: 4
+Number of States: 4
+Initial States: 1 1
+Final States: 1 1
+Transitions:
+1 -> a -> 2
+1 -> a -> 3
+1 -> a -> 0
+2 -> b -> 3
+3 -> c -> 0
+0 -> d -> 1

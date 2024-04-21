@@ -1,0 +1,12 @@
+Automaton Information:
+Number: 30
+Alphabet: 1
+Number of States: 5
+Initial States: 1 1
+Final States: 3 0 3 4
+Transitions:
+1 -> a -> 2
+2 -> a -> 3
+3 -> a -> 4
+4 -> a -> 0
+0 -> a -> 3

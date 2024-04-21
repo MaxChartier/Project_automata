@@ -1,0 +1,10 @@
+Automaton Information:
+Number: 04
+Alphabet: 1
+Number of States: 2
+Initial States: 1 0
+Final States: /
+Transitions:
+0 -> a -> 1
+i ->  -> 1
+i ->  -> 0

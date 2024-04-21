@@ -1,0 +1,9 @@
+Automaton Information:
+Number: 08
+Alphabet: 1
+Number of States: 2
+Initial States: 1 1
+Final States: 1 0
+Transitions:
+1 -> a -> 0
+0 -> a -> 0

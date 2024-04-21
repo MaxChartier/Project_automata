@@ -1,0 +1,11 @@
+Automaton Information:
+Number: 12
+Alphabet: 4
+Number of States: 2
+Initial States: 1 1
+Final States: 1 1
+Transitions:
+1 -> a -> 1
+1 -> c -> 0
+0 -> b -> 0
+0 -> d -> 1
