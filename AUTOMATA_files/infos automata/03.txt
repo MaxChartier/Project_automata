@@ -1,8 +1,0 @@
-Automaton Information:
-Number: 03
-Alphabet: 1
-Number of States: 2
-Initial States: 1 0
-Final States: 1 1
-Transitions:
-0 -> a -> 1
