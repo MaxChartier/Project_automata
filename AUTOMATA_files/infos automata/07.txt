@@ -1,0 +1,11 @@
+Automaton Information:
+Number: 07
+Alphabet: 1
+Number of States: 2
+Initial States: 1 1
+Final States: 1 0
+Transitions:
+1 -> a -> 0
+1 -> a -> 1
+i ->  -> 1
+i ->  -> 1
